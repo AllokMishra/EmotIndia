@@ -4,8 +4,7 @@ This dataset contains facial expression images categorized into seven distinct e
 The dataset is designed for use in machine learning and computer vision projects, particularly in the areas of facial expression recognition, emotion classification, and real-time sentiment analysis using deep learning models.
 
 📁 Structure
-Copy
-Edit
+
 dataset/
 ├── angry/
 ├── disgust/
@@ -14,6 +13,7 @@ dataset/
 ├── neutral/
 ├── sad/
 └── surprised/
+
 ✅ Highlights
 7 well-defined emotion classes
 
